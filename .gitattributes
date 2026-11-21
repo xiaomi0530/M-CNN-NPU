@@ -1,0 +1,11 @@
+* text=auto
+*.sv text eol=lf
+*.tcl text eol=lf
+*.md text eol=lf
+*.mem text eol=lf
+# Keep the published files byte-identical to the SHA-256 manifest on checkout.
+rtl/**/*.sv -text
+model/*/*.json -text
+model/*/config.tcl -text
+model/*/*.mem -text
+model/*/*.npz binary

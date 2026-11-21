@@ -1,0 +1,77 @@
+[
+  {
+    "wire_id": 0,
+    "class_id": 1,
+    "name": "奶蛙"
+  },
+  {
+    "wire_id": 1,
+    "class_id": 2,
+    "name": "奶蛋"
+  },
+  {
+    "wire_id": 2,
+    "class_id": 3,
+    "name": "小奶蛙"
+  },
+  {
+    "wire_id": 3,
+    "class_id": 4,
+    "name": "奶鼠"
+  },
+  {
+    "wire_id": 4,
+    "class_id": 5,
+    "name": "奶豆"
+  },
+  {
+    "wire_id": 5,
+    "class_id": 6,
+    "name": "奶狗"
+  },
+  {
+    "wire_id": 6,
+    "class_id": 7,
+    "name": "奶粉"
+  },
+  {
+    "wire_id": 7,
+    "class_id": 8,
+    "name": "奶鸡"
+  },
+  {
+    "wire_id": 8,
+    "class_id": 9,
+    "name": "奶猫"
+  },
+  {
+    "wire_id": 9,
+    "class_id": 10,
+    "name": "奶屎"
+  },
+  {
+    "wire_id": 10,
+    "class_id": 11,
+    "name": "豆奶"
+  },
+  {
+    "wire_id": 11,
+    "class_id": 12,
+    "name": "奶兔"
+  },
+  {
+    "wire_id": 12,
+    "class_id": 13,
+    "name": "奶鱼"
+  },
+  {
+    "wire_id": 13,
+    "class_id": 14,
+    "name": "奶茶"
+  },
+  {
+    "wire_id": 14,
+    "class_id": 15,
+    "name": "奶瓶"
+  }
+]

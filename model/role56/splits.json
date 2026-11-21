@@ -1,0 +1,3586 @@
+[
+  {
+    "sample_id": "01-ref",
+    "class_id": 1,
+    "source_group": "reference-pose:01",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "da465909be3ed99f254fd8b1bb85d52dce5dc8175ef25615796d130c1b887ca1"
+  },
+  {
+    "sample_id": "01-001",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0204",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "55b2d7d0fc13a5007ef51d18544fc4fdfb6ccef708e3300ab82634bbc2b47cae"
+  },
+  {
+    "sample_id": "01-002",
+    "class_id": 1,
+    "source_group": "reference-pose:01",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "12aabc071111cfc252a9d18ffe0df149b2861165391c6fe043989a9f20a404f5"
+  },
+  {
+    "sample_id": "01-003",
+    "class_id": 1,
+    "source_group": "archive:ghn-naiwa-wallpaper-6a040e71f9b2",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "6a040e71f9b2b0b4173283c1522f7248a7d6ab54be3527d5f9d32db8db9cebe8"
+  },
+  {
+    "sample_id": "01-004",
+    "class_id": 1,
+    "source_group": "archive:gh-nailong-memes-7634ca639580",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "7634ca639580f2c473d60adfdc33f41faa410438341d0114c9a87b4b4e194e76"
+  },
+  {
+    "sample_id": "01-005",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0028",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "ca6d8cef9abec5c5d6d88dfcdb451fd4753c8f99f9ebe8221bd6c78d1117d38f"
+  },
+  {
+    "sample_id": "01-006",
+    "class_id": 1,
+    "source_group": "archive:nw20",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "0a5d135e6973da4728978278152e883b50f54ba9c5af71c1788d30f9a87746f7"
+  },
+  {
+    "sample_id": "01-007",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934093223767313547.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "88d2eb33bd28374a1ee01d4ac1e9486efdc82d97b5223be99f19c562b3607233"
+  },
+  {
+    "sample_id": "01-008",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0053",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "14c3cecae32480ad9a41658a6579f72420e7f8976d8b666c0db5c271104428ce"
+  },
+  {
+    "sample_id": "01-009",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0056",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "1f77ea64239a4ecdcad7d6de30be9019123f7c1642f65d67182bee3f4a00ba9e"
+  },
+  {
+    "sample_id": "01-010",
+    "class_id": 1,
+    "source_group": "archive:ghn-naiwa-wallpaper-8b65f3ff8b38",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "8b65f3ff8b3852895a787bc7e16ea99c751e25e3606287b3ae4df8178335bd39"
+  },
+  {
+    "sample_id": "01-011",
+    "class_id": 1,
+    "source_group": "archive:nw53",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "a9a9f770ce22d1085ff771b5746d17a99c766479411f491ac0b241d34eb143c8"
+  },
+  {
+    "sample_id": "01-012",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0345",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "f3827176473d7c762cbd44c85bec36bc101c4905e9debb9e311b31b54f1a473d"
+  },
+  {
+    "sample_id": "01-013",
+    "class_id": 1,
+    "source_group": "archive:nw14",
+    "split": "test",
+    "kind": "web_motion_poster",
+    "sha256": "841ea70eacdd6b89ac0a3e182ab46c5394580d33aba453a8d512aa708140d1d1"
+  },
+  {
+    "sample_id": "01-014",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0253",
+    "split": "val",
+    "kind": "web_motion_poster",
+    "sha256": "837d1cceb73938569a82d3abfc493b0dfddcdb47900b6b0a9c570ff626a5d1cd"
+  },
+  {
+    "sample_id": "01-015",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0248",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "6152f344395ac70be9a521074e6c189eb95e709bbaacf513f9c1ade6ea93de10"
+  },
+  {
+    "sample_id": "01-016",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/953708986991904265.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "8b4919784b152ff45931cbf8d2bb7d802f9c38c02972205a69253fcbe0d895d0"
+  },
+  {
+    "sample_id": "01-017",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/950799775018517702.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "3f9b443f5b00863bbe453d5da749bdd25d3cc28affc2227322dcd59300387ada"
+  },
+  {
+    "sample_id": "01-018",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0032",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "e7879e7837db2e46bb6d5ec42be8f5c8bc21b3a8bab761b45886e18125001546"
+  },
+  {
+    "sample_id": "01-019",
+    "class_id": 1,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa8f97a0000000028031722",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "022992265aecdf8a1bef3340c642363f38d38437d3b824fe7f6920a83370c060"
+  },
+  {
+    "sample_id": "01-020",
+    "class_id": 1,
+    "source_group": "archive:ghn-naiwa-wallpaper-4935024391b5",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4935024391b53a1494997100bead230e92837bfa284c8aa4c82af9fed1e19f39"
+  },
+  {
+    "sample_id": "01-021",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0016",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "75aede70072672004c6c9c862772331f6ec63cc8234012fd43b855ad93e3b13f"
+  },
+  {
+    "sample_id": "01-022",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/935223285958839071.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "de9f45cd484205dbc826036762f9196b9eb7ec99b9174b2c7012b102448d9cb8"
+  },
+  {
+    "sample_id": "01-023",
+    "class_id": 1,
+    "source_group": "same-work-c7adc55e21a9244d",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "f2d47a3071c5c3aaaf9e1196844c274bc5d7ed44585e2620132d53ddba56c762"
+  },
+  {
+    "sample_id": "01-024",
+    "class_id": 1,
+    "source_group": "archive:nw45",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "94bccfea84d16d1c135f748fc5ce9181064bb2b49069f11efe42656558927efc"
+  },
+  {
+    "sample_id": "01-025",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/923988391316423689.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b45aac0736e56bf9dc2302acb8b7da0883507ed3fedd1c94f08649a7050b66be"
+  },
+  {
+    "sample_id": "01-026",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/896860819835324405.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "c2ad5d4c113834eeb850a2799e1f610d2d0821c1a8f383db0e429eb082d8531a"
+  },
+  {
+    "sample_id": "01-027",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0687",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "300b4b86b21ee859890a28edfec867a7ffa9468c1febc18178bb4e2df0255025"
+  },
+  {
+    "sample_id": "01-028",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/896860819835324405.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "747a9ddc53a7d5ca38128d7c1fcdaca7e12bb7614fe4292c2d6f0fe5970c8e04"
+  },
+  {
+    "sample_id": "01-029",
+    "class_id": 1,
+    "source_group": "archive:community-naiwa-85f33581cf65",
+    "split": "val",
+    "kind": "web_motion_poster",
+    "sha256": "0424d104e8d13b95fd2ef32bfab202efe6563eb092ad8fed852bec8ba4b1a2ef"
+  },
+  {
+    "sample_id": "01-030",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0353",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "6fbffd14aa2121810c2093aa70a9746599f234eeb29787457868f4b028ab3470"
+  },
+  {
+    "sample_id": "01-031",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/896860819835324405.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "d26a47bfc2a623fc3b19f51bb9f9880e10d3ca57b679a1af788a2bbc1d9ae0ee"
+  },
+  {
+    "sample_id": "01-032",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0579",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "be9b06cbd4df13b35340ce8516fecc9a2e1dde62b2f589dd29a88dd77e27d10c"
+  },
+  {
+    "sample_id": "01-033",
+    "class_id": 1,
+    "source_group": "archive:nw12",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "c6fc26a484c3e8230768fe9762d0a246e5f8dca077c3c9d05285e4cc40915139"
+  },
+  {
+    "sample_id": "01-034",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/941685184321818034.html",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "f98364be920b3f6dfb8f250175b5ebbcb264a3fff83917186d24ade034809125"
+  },
+  {
+    "sample_id": "01-035",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0603",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "7cf6345a0b80a90067874413822807b71eb3064229965feac5bde9edba734d11"
+  },
+  {
+    "sample_id": "01-036",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0131",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "95d1834b13bde3d52ed6eca7e0f662734a95a83d32d9df5e9107fc6bf70cc0e9"
+  },
+  {
+    "sample_id": "02-ref",
+    "class_id": 2,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "6379be3a7940483206257001d8e97cc37885cd3ec16c39e8980f585c565bf660"
+  },
+  {
+    "sample_id": "02-001",
+    "class_id": 2,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "3542ef0caf6ac2db97978dc9a8492836185540b5d86abbba72f405a119ae6884"
+  },
+  {
+    "sample_id": "02-002",
+    "class_id": 2,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/954749522037181105.html",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "3bb2ff021050cc117fc4e901466df9e70df12ea25aa51521fb343f2913a51f42"
+  },
+  {
+    "sample_id": "02-003",
+    "class_id": 2,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "d83d55e99769abd999f79d05f5f6ef1376030fa378684798b858c8c8f9af689e"
+  },
+  {
+    "sample_id": "02-004",
+    "class_id": 2,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/928334350003472925.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "c58e0acc3f2bbe39c5a3be56b10e33e25be3bd6c4f6c1d885ea34269879367c1"
+  },
+  {
+    "sample_id": "02-005",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ac8e864000000001a029b6b",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5177fc2f2cd6f660f5fd7b0648b205bc04e56b53a349a18af3f7aaa23f3b2f89"
+  },
+  {
+    "sample_id": "02-006",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7a9c97000000003301d48b",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b921e579d00e2e5bde7d0716b73cbc1e83ac5896d407d06dce6988ad131c0275"
+  },
+  {
+    "sample_id": "02-007",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad1d3b10000000015011ac3",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "9f422b8db2fadf01387b13c86072bb08c2856861176442fb209e6af72fad81a8"
+  },
+  {
+    "sample_id": "02-008",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a91783300000000070050e1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4942988bd2c8f67aac87bce4a9ce1c142f8c88d8067ee5178aa9d2497f02f2df"
+  },
+  {
+    "sample_id": "02-009",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a85ca33000000001b033720",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "7dcf593c35358cd1b8fd92fff5fb5358a498ff8441f59738574281c9ce39a215"
+  },
+  {
+    "sample_id": "02-010",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a91783300000000070050e1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "06e13646582825264c70ceebb5fc31ec508a14c5b3ee858326a9a4cdae9a1398"
+  },
+  {
+    "sample_id": "02-011",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6acf9d83000000001500b9a2",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "b784165d4f189a3766c8a407fb878a6dcdcff01dd7438d9b7139a085405f883e"
+  },
+  {
+    "sample_id": "02-012",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6acf9d83000000001500b9a2",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "e75c8be1dd24d04eec2581890bb94b41978d494747620600d9aa33d9c5281775"
+  },
+  {
+    "sample_id": "02-013",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6acf9d83000000001500b9a2",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "3446003ad276ec9ad88c060600e6a717bf13f6cd741475ede514f148a8491ab7"
+  },
+  {
+    "sample_id": "02-014",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6acf9d83000000001500b9a2",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "bb44f80e37e2aa40cf94d21f2adf91cb59df787a82d02052d3fbccd2b71b3e67"
+  },
+  {
+    "sample_id": "02-015",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad59280000000002803b896",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "171fc70ee65579fb419db242ac1861a268528817cfbd3dc3aada0b47cf31eafb"
+  },
+  {
+    "sample_id": "02-016",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad59280000000002803b896",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "6e8d06396f735f638066968e75fea00be5e757bf2b55ab2b04f7579ce7a56387"
+  },
+  {
+    "sample_id": "02-017",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad59280000000002803b896",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "58cf271abd549710f1e6084637975eed71877fbc46e6644e326f307c965dd8fe"
+  },
+  {
+    "sample_id": "02-018",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a91783300000000070050e1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "0e412606430dfbe4352003741e239fe87a2efdc4413372a0b80e40a1aba913a7"
+  },
+  {
+    "sample_id": "02-019",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a91783300000000070050e1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "2e124cadb33fcff02b576c0904db63bddb40c7867dcfa2d04671a7dc9fd1603a"
+  },
+  {
+    "sample_id": "02-020",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a91783300000000070050e1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "07b0caa5783645b4312c56b57b0f0d750805742bfcddb43f6458d1b3ba01ee14"
+  },
+  {
+    "sample_id": "02-021",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa12b620000000029017b4c",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "076c44ff01975264fcc082ea41140730effe38bd5b0f7e6a2e2598b9ccf2516a"
+  },
+  {
+    "sample_id": "02-022",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa12b620000000029017b4c",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "2ec06c8333c1977bbab2c4001288f3fb1f47a669b2fd0db392dd91ec440e908e"
+  },
+  {
+    "sample_id": "02-023",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa12b620000000029017b4c",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "7cfdf78acfebf410f70009acbc1c242cdc313f9b0191679352763621080dc9fc"
+  },
+  {
+    "sample_id": "02-024",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad431d6000000002f02afea",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b3dcb26373efb495f1750d8463f20976d49257da32eaba8cb24b971aa7096004"
+  },
+  {
+    "sample_id": "02-025",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae5fd29000000000e00c611",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4d0b44afe13834b0522184d1a8be29e31fa6c5619d87e216a40f7fd4104eb39e"
+  },
+  {
+    "sample_id": "02-026",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad431d6000000002f02afea",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "ae8b91b79b01589e3696e1253b1161cd120c217ef1ffb87b8b1fefe8fd9ee069"
+  },
+  {
+    "sample_id": "02-027",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa118a6000000002b01cd74",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "addb92833ee70463320d54aa0361df88e69bcf65ba96044e9538217307b9ac2e"
+  },
+  {
+    "sample_id": "02-028",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa118a6000000002b01cd74",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "0f772bdb5c11e3f3c9d79957f691d2c02b2294e2b31096f49cd40639d7d5f288"
+  },
+  {
+    "sample_id": "02-029",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a85ca33000000001b033720",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "ab2d1e77536a68eac215b54c30a75070e6e3e846a64152f1f957a6170ee64a22"
+  },
+  {
+    "sample_id": "02-030",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a9402d1000000002503e897",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "918152e8876acfb7d454a9f1de264e95c3199fa586959c052aef707aa3656186"
+  },
+  {
+    "sample_id": "02-031",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a9402d1000000002503e897",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "69992d048a077152e9430616e6b1d144a82025cc18023c63f8387d9c61c6eddd"
+  },
+  {
+    "sample_id": "02-032",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a9402d1000000002503e897",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "2be7e104c1d1e83c8647f517aa5f229c18447818cf59164db445148cd9e819a6"
+  },
+  {
+    "sample_id": "02-033",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a9402d1000000002503e897",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "585dc0fec97d3c862a5baf18ab46f6ba201c086eff75d740bf30f13fdbf8968f"
+  },
+  {
+    "sample_id": "02-034",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7da4950000000005022910",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "cc885894e529ff6bd19845539f16cb8f5e40b454b08b73970d7d231c3d67e84b"
+  },
+  {
+    "sample_id": "02-035",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7990cd0000000005020c0a",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "ef8a6294a28a31648a607f1727aaa16c5c972eb73643f173c8a5e29b8f2480a5"
+  },
+  {
+    "sample_id": "03-ref",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "8b35171167924532d3e4698c81145d84a76fe16e328399ce5747e7c7c63cdd7a"
+  },
+  {
+    "sample_id": "03-001",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0135",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a103835c9978364f9ff875cfe8a0483b010a8ad1dd8788179aaa37fa4ed1901d"
+  },
+  {
+    "sample_id": "03-002",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "187eee46c7a5aca4f3377251a660da928f78c58f349c8101e23635221ca52bf4"
+  },
+  {
+    "sample_id": "03-003",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0235",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "d4febbb7fcea534ec54469d027f0fb16e12816ad84e92b65e46078ad2c8348bb"
+  },
+  {
+    "sample_id": "03-004",
+    "class_id": 3,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/953708986991904265.html",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "ef0e4d16f6c2d7899f49c2b17a711220515cb568f2598695425f5608e6f059e2"
+  },
+  {
+    "sample_id": "03-005",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0233",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "cde9612a7eb24bfc62b2df8a680bd253bee2cc8aa6827b4c1d7450aba04850ad"
+  },
+  {
+    "sample_id": "03-006",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0198",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "493cb494293a87bb670155e089e66316d6e18c8c1b37e91f87bf487aa2b23807"
+  },
+  {
+    "sample_id": "03-007",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0142",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "b2bdaa742e089d743994212458595434d269d6836b68ec136176db3476fc4465"
+  },
+  {
+    "sample_id": "03-008",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0187",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "1d43bf9350800eff88fce49dd7e8d4342f7cace4917925591e5e15fb175cbe31"
+  },
+  {
+    "sample_id": "03-009",
+    "class_id": 3,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "fdfa3125bd1d7293f0d7080def515548a4b399146587b3c91ccc882ec7f6312e"
+  },
+  {
+    "sample_id": "03-010",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0229",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b94985d10b6ac9887c7355760e61137f00d3882365da3eee7e5ee3cf6ab1628b"
+  },
+  {
+    "sample_id": "03-011",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0183",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "15b122af775960b5e5d333c01eddf86ce52a4c752c653a368a60855eabfa6da4"
+  },
+  {
+    "sample_id": "03-012",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b77a70f029326af093917958d6d0c4af6f04d50ea3cc9b4516a7b657ee4727e9"
+  },
+  {
+    "sample_id": "03-013",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0180",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "0f96389bfd167da4736a6105cc70e09b6e4f16bfc614817efcd16abdca093f7a"
+  },
+  {
+    "sample_id": "03-014",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0067",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "7167fe2e5540719f038cb409dbab3893ef812e29dc18c03a3611ba0ab53d05ab"
+  },
+  {
+    "sample_id": "03-015",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0102",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4765fa29d6591ba5efd656a0a41941ebcd327ac6c92ff63b95f9196603ab7206"
+  },
+  {
+    "sample_id": "03-016",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0203",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "557dd91e60a1b3728908291bb771256f7037d56c8be07e8d20ded7ca3e5d2cb8"
+  },
+  {
+    "sample_id": "03-017",
+    "class_id": 3,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/875875170009482553.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "1b36b521af2a225608ddcd0c669d2cefae18aff1b03f860cc2cf9467e128c4b8"
+  },
+  {
+    "sample_id": "03-018",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0071",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a2e963e5e27d9f44b458cafc4d3fc0b96a69c4b1eb32793d770f36d3bf4a90cb"
+  },
+  {
+    "sample_id": "03-019",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0007",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "2530d5f55f12dfc085c9b332712a1b0d67c5f395325303eb62a68e3bfdc5dfe3"
+  },
+  {
+    "sample_id": "03-020",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0221",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "9b101af11c8c0ce0239fcbee290b2ad37cf583f39537510c24f35aaa2856cc20"
+  },
+  {
+    "sample_id": "03-021",
+    "class_id": 3,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/932680844856788036.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "19918c30ebe546e675396608d11d36dbab481d2103c3c5d9599bdff2d6eafc84"
+  },
+  {
+    "sample_id": "03-022",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-2036",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "761048e854e9d9f268dc033545d804a8af0efb8ee9ed75735900b41b8245c77f"
+  },
+  {
+    "sample_id": "03-023",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0189",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "2c6556c9cb060419b61bbfd84d9cd8d2b8654caef89ccacb1cf15d2441c11fc5"
+  },
+  {
+    "sample_id": "03-024",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0239",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "e8837b787a7e701951621a66f3c8b923e412c425df8cf02b02956df53f0371d4"
+  },
+  {
+    "sample_id": "03-025",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "7e2a2d3f531e8e08444b76834bcdf9929e706a7c61151f3e545e59291b8ade4a"
+  },
+  {
+    "sample_id": "03-026",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "c1dfb02b8456c999dd3fc35ac6d8da629e643398c49aa3d2ac9eb4f51102ac38"
+  },
+  {
+    "sample_id": "03-027",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "65fad119b570b11c2d78d0a478f78f851269f7bd06f3c4e707319f88d20ed3e4"
+  },
+  {
+    "sample_id": "03-028",
+    "class_id": 3,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "3c7680dbfda836a55ae47111123fd643aa45aec9ef35ad89b3094841f062856e"
+  },
+  {
+    "sample_id": "03-029",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0068",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "8c8df4fa10cfab61bca25f228deea44f1d3444b44768ec57e1e7953ff9b34681"
+  },
+  {
+    "sample_id": "03-030",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0113",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5992120d04ea5fb09ce2975ee768e8b98f23ab85d3def3b0df76df2f5d74026f"
+  },
+  {
+    "sample_id": "03-031",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0179",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "0d88682805414038ee7207a260ed54b27c1837aaa84dd79fc5c4396240804bef"
+  },
+  {
+    "sample_id": "03-032",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0184",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "19223fe4adec8865c72c1a68ed42c278d4f1930bc93c2486f32969fc3b6a6ab5"
+  },
+  {
+    "sample_id": "03-033",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0194",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "3c6f4584d757aa0ffba3e330ac38c7b11a5d39cd83a23543c0c09fad40a6191d"
+  },
+  {
+    "sample_id": "03-034",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0200",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "4d95be51b537c6754e8148a96a890ad025d1ddc251608e6f6059f4afe62519a8"
+  },
+  {
+    "sample_id": "03-035",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0235",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5d0b464765325848b04b32a031dda127e80ad8cc30df0ed2592cf960e62f0322"
+  },
+  {
+    "sample_id": "03-036",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0208",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "715f3e0ae91571c01f6ac4c7e74023b295422a3704fef5659b77d3ab43c5e214"
+  },
+  {
+    "sample_id": "03-037",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0209",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "78a5f80326a26a1d97096a70808e951e32055ef722cde71652134e631db081cc"
+  },
+  {
+    "sample_id": "03-038",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0210",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "78d268f2a58942d0784e88f6ce0fdea7d4bc26bc479be70f9b42472b82de2114"
+  },
+  {
+    "sample_id": "03-039",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0212",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "7ff2c3894ec31a2b6886e10cdf803753af0ed9cf436d7018240578f10a172fda"
+  },
+  {
+    "sample_id": "03-040",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0235",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "8a791758a27c0acb8fe0d35d42c4f5d92a17110d072a6c14e2b287f54e0417b3"
+  },
+  {
+    "sample_id": "03-041",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0219",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "901e510ca218d10c9bae5a9b281d5547fb5cd385fe343cf3ebe484aa5e53e9cb"
+  },
+  {
+    "sample_id": "03-042",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0222",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "9e0c21277d5fa56bfaef42b0463e4dbd646d502c95e021b3ab4788ea32ef8ef7"
+  },
+  {
+    "sample_id": "03-043",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0226",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a6a1c2ddb3321c6181f3dea8fd9845a566593547da0d91ed7f6d90ad2de44799"
+  },
+  {
+    "sample_id": "03-044",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0228",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "b79476566e8943e51f310c3b77c2010b5b342fe23c1f76b982bb6e1d27d577dd"
+  },
+  {
+    "sample_id": "03-045",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0230",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "bbf5ec406538610a94a0bd821dab5f64dfd14744914079fe9fd3645bfbd43315"
+  },
+  {
+    "sample_id": "03-046",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0241",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "f0ac0285511815d0cc2b7314cd1530ae5e5f7eb1849d5fd40c3a00831a26a9db"
+  },
+  {
+    "sample_id": "03-047",
+    "class_id": 3,
+    "source_group": "archive:dot-naiwa-0245",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "fe2f47783bd88f43d9dd3f969d4b99d589b97912d850615aac6c7c8e54ffe02e"
+  },
+  {
+    "sample_id": "04-ref",
+    "class_id": 4,
+    "source_group": "reference-pose:04",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "ade960214168d6ce5c2f48f7727694686d2f0dd00cfb78f2a3f3dd042d809a6d"
+  },
+  {
+    "sample_id": "04-001",
+    "class_id": 4,
+    "source_group": "reference-pose:04",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b28edec2caebc6dd2874866493ef2b7a0670ccc9986ede77e7f7a55f67f7dbb5"
+  },
+  {
+    "sample_id": "04-002",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "954d03221bbe5a9ca298362994bc6e801e373fc2469d34d71ec50cdb1b4280c9"
+  },
+  {
+    "sample_id": "04-003",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934855172977331674.html",
+    "split": "test",
+    "kind": "web_motion_poster",
+    "sha256": "f507f353e231a51bf8e8a1dbb20387bb5bffbf5b7818ecce3c6826b80d92ed8a"
+  },
+  {
+    "sample_id": "04-004",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab78a630000000015008518",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "be9822099c785484f45fe15e526b6e6dfcd29de2b54ed173fd503e825121e421"
+  },
+  {
+    "sample_id": "04-005",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/952612248273029438.html",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "f3f6cb8d177c97ec723e31dae92a5cb8bdcd14294804bd03a0adf1d15d9fb329"
+  },
+  {
+    "sample_id": "04-006",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae583340000000019003ddf",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "195ac7409a90723c41b1e54620109e26625a00e7f16d8c0c14df233e299012b8"
+  },
+  {
+    "sample_id": "04-007",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "da2fd256160b4628e68e9f750deb5c70fe4d404d6c539f5e79eaecfe7e977e2a"
+  },
+  {
+    "sample_id": "04-008",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934855172977331674.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "212f7aa73c60546e44e407a999e36f8428ccfcd0513788c383b99efe723680c7"
+  },
+  {
+    "sample_id": "04-009",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/952612248273029438.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b53ea92b248dac87ad712687848c6c58dd4e858c47d31ccebf3de3e8ffb9697d"
+  },
+  {
+    "sample_id": "04-010",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/952612248273029438.html",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "06655cf4264fa4886a91a5e69c5ec5369820aa01ab23379e0107a6dfaad3b5f1"
+  },
+  {
+    "sample_id": "04-011",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934855172977331674.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "8d33836e9d8afbb05df33efb316b5aa02493c5f391e08ed1f5ef13e7a4153f57"
+  },
+  {
+    "sample_id": "04-012",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934855172977331674.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "b3a94b5523f69025a5991e29b50a82a5320fcd2231fbbb99dd4c40bf881859cb"
+  },
+  {
+    "sample_id": "04-013",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/952612248273029438.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "0dad43e985fd3480234dc1baecd59b6b262cb22baf74fa75ed3fe5dcbedd7297"
+  },
+  {
+    "sample_id": "04-014",
+    "class_id": 4,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/952612248273029438.html",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5534ebe67b25b37d339fbb4605cbe9bc7041cc468a9dcd64d2e8c2306bf03755"
+  },
+  {
+    "sample_id": "04-015",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae583340000000019003ddf",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "da421f2469485693ce81559aacd1ff986a54f9c8d1701a95723a5bf623edd04b"
+  },
+  {
+    "sample_id": "04-016",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae583340000000019003ddf",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "c01f8226747c08cdbaf537002140aa1f842447267767a7e308671cc387486534"
+  },
+  {
+    "sample_id": "04-017",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae583340000000019003ddf",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "2a96917245800560bbac132237f29523d62a403161cc8a5af38417d9cebac709"
+  },
+  {
+    "sample_id": "04-018",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae583340000000019003ddf",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "36b4820fe9bcdcc6296ff14c6477fba0b55621ca71191361205a0f518cf2f17b"
+  },
+  {
+    "sample_id": "04-019",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab78d3f000000001a029065",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5e92f11b1f03e9a27bd2de4a17b88d12a25f73ecb1f3c766fd25b6b4f8490663"
+  },
+  {
+    "sample_id": "04-020",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "3a138463aec51c5ff83b9995115e9ef0b073335e1d12ef99c2c8de3f6377dc48"
+  },
+  {
+    "sample_id": "04-021",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "02b294831ee33486b1be0c64c77745a6c9c8e673606521b9dcedfd04ffba3a6f"
+  },
+  {
+    "sample_id": "04-022",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "408582c4019c09c8095768631d3ba4e2472a252f211478fe8b8008737e5e39a9"
+  },
+  {
+    "sample_id": "04-023",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "f01b40cd6575bdb0b193f62e209cf29a5587c83267d1a46b9f0a6fc78e8119ae"
+  },
+  {
+    "sample_id": "04-024",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "fe893846a4248982ba0a9ed185db434c361cdeed9ffc75c116cdce26b1150ec2"
+  },
+  {
+    "sample_id": "04-025",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad6d928000000002601ea91",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "47e3234fe13b5df922185437e9f77096737589620eb00d3e343200f62b2f4bf9"
+  },
+  {
+    "sample_id": "04-026",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "c9f561f4c7810bd4d95e81db4e486fde46d65f56175f0c7242c862717c4ccfc6"
+  },
+  {
+    "sample_id": "04-027",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "d21ddb735af2eb1e99102d35d35c60b641e40e72c9e936e18e01db5f6455725b"
+  },
+  {
+    "sample_id": "04-028",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a148ab1a4bc731ef0370a70d5dd4af477b3171a2b644a7316d37757b9945adc0"
+  },
+  {
+    "sample_id": "04-029",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a0968f57eb4646a1b5c10d93bea9cff619465093771f935557a1156596f5064a"
+  },
+  {
+    "sample_id": "04-030",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "9301517ef1114ba7c75915d541ca9449dea071220e871e51a8413ebd7044e314"
+  },
+  {
+    "sample_id": "04-031",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6abb472a000000001a028614",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "d9a18f41be5c4b7b1083e1f6694eedef81d6033c6eb2a0283a14923ebfd26535"
+  },
+  {
+    "sample_id": "04-032",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adb35f700000000330376ca",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "d27ac5c9336a8bf2de31ac0f11cd8efb91f85240ccf823123a1f9faa09d01076"
+  },
+  {
+    "sample_id": "04-033",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adb35f700000000330376ca",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "6627e04aa74d5c0a12078aaeb972bf6d0c91ea06f6747a7e24325de99b08dcff"
+  },
+  {
+    "sample_id": "04-034",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adb35f700000000330376ca",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5a27d1ee698b405f572e973e066de06580c36c330f4826e62fe5d3fac9ded727"
+  },
+  {
+    "sample_id": "04-035",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adb35f700000000330376ca",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "8e69d5b6bda772d6c2822826c708c6cc9e00fadb1227c3a877cac9c119cbe15f"
+  },
+  {
+    "sample_id": "04-036",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adf3761000000001a0318ba",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "e11bf3e6e216dd35b3d55fa36ef06d0db87b929ccfde51f6595801ba20ec8a1a"
+  },
+  {
+    "sample_id": "04-037",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6adf3761000000001a0318ba",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "b1b287f8df2962efdf32976c5350a984c2c5159ac027644b18c19a18bb85d484"
+  },
+  {
+    "sample_id": "04-038",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad60b7a000000002701d73c",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "69ad2b32e258b88b0dea92458f0449fd2913b7513dcbe7c0010c75f4411358d7"
+  },
+  {
+    "sample_id": "04-039",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae561b5000000001200d5a8",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "31fa1deeb8ee2db90a04a4045c1ba0321402906169d70fa3a91cfb7c36602429"
+  },
+  {
+    "sample_id": "04-041",
+    "class_id": 4,
+    "source_group": "archive:dot-naiwa-2009",
+    "split": "train",
+    "kind": "web_motion_poster",
+    "sha256": "7c7720a32106250aae6a9f504ff9acff64221977a09f7d1361fadb9397906fe6"
+  },
+  {
+    "sample_id": "05-ref",
+    "class_id": 5,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "dfe553d0be87d52e7f284301d2f82fe3bd3defc22f70a0e77fc90402088683f5"
+  },
+  {
+    "sample_id": "05-001",
+    "class_id": 5,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5f77e0c0ad0d2b86c755f103469b9de22692402f9257cc0e043a32dd07b8a8ad"
+  },
+  {
+    "sample_id": "05-002",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ac7cbfd000000001403b3c8",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "56b07d0f22525233f2a0370ec1491166ccf71b410209da8228b36fe1d5db1e03"
+  },
+  {
+    "sample_id": "05-003",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae3048c000000001c035e31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4722190a794e14cbd564f9410a61e97cd5aa09e905da9c0c215d7c08ab596c1b"
+  },
+  {
+    "sample_id": "05-004",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ac4fdcf000000001500fed7",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "caa1467d39aa1cdc4e66713ba0e02993d6fe47d8ec920894ddfe6dfb7bb4f974"
+  },
+  {
+    "sample_id": "05-005",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6acbc42d0000000014001ea1",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "385fb8049d435a48b1b537393d97258693b033b02349934e2f4322d882cab08a"
+  },
+  {
+    "sample_id": "05-006",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcdbd7000000002c01bb31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "654580f269c9999eaca0128549c2c00f81aacbfdce824d79730486b387a3e62e"
+  },
+  {
+    "sample_id": "05-007",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcdbd7000000002c01bb31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "10b69345f70824764f44065cd3c3cbcfa58fd2224ae618a8a7959cb5c57e5c01"
+  },
+  {
+    "sample_id": "05-008",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcdbd7000000002c01bb31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "caadd328fae8ac44ff7a88421da2f7deb32fdad9e0ec1303115b097d62cee0f9"
+  },
+  {
+    "sample_id": "05-009",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcdbd7000000002c01bb31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "57125339ba06cb3e3ac9212b1cf37496ece4d5bf00ad323161f6f5f74d7666e6"
+  },
+  {
+    "sample_id": "05-010",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ac7cbe9000000000a027998",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "54c770167d92d02209fd73b4df39fe0b28bf9e291c504c0435ce7fdbc57a6914"
+  },
+  {
+    "sample_id": "05-011",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6adce11c0000000031024240",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "e5a5d0395376324d1e80b31229bbecafa0919dd1c4797323ea9344a406c375e3"
+  },
+  {
+    "sample_id": "05-012",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0b549000000001303c4b5",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "09a2e7f402ea8c367d7cd23009a282637b3e22be65dc4175f7f36f32da1d074a"
+  },
+  {
+    "sample_id": "05-013",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0b549000000001303c4b5",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "1c0b0c025d426c513a5974267de76ae3fb330f3ec1ec9ad7389b652365626f42"
+  },
+  {
+    "sample_id": "05-014",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad64550000000000c00a837",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "5355dd9cec85c5018608481d2635530b8dc2f61f3703e9641e4a35da6e4ceddb"
+  },
+  {
+    "sample_id": "05-015",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ac5f162000000001a02a059",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "8800ea5529e63f4cdaabe7bd618ee91a26ac473384bfad77bdcd754325a61830"
+  },
+  {
+    "sample_id": "05-016",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae3048c000000001c035e31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "880a04b6f2fd45c81cb84bcb251c062039eb47125fb3f0e8bdba1f10fa632468"
+  },
+  {
+    "sample_id": "05-017",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae3048c000000001c035e31",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "53942d44b3385d72f01eb12d8b111d9a993766823a7aec9e6fbf3dd942650a8c"
+  },
+  {
+    "sample_id": "05-018",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0b934000000001303dc10",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5e1487903b4544d36b21d7840486546fd65ae5b4f3924b5ac801c8198a143fcd"
+  },
+  {
+    "sample_id": "05-019",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0b934000000001303dc10",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b9ae8f24073a29a589baa2090e5ad619ae636b0ff203250e5f2d1dcc0f7606d0"
+  },
+  {
+    "sample_id": "05-020",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0b934000000001303dc10",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "cc3771c611a0923902652c652f216d3ebb92fddac8f557d14d8cf38262c55626"
+  },
+  {
+    "sample_id": "05-021",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad33526000000000a021724",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "e95b36685fc49987480d9bf7ab7be0a3674e95a4ed029dee378311ca299d6acb"
+  },
+  {
+    "sample_id": "05-022",
+    "class_id": 5,
+    "source_group": "video:BV15xJ266Ecv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "f5edbc848eb1334f74f3dd1995d06e5d2e555acb58380ce37d8a029e47fc1105"
+  },
+  {
+    "sample_id": "05-023",
+    "class_id": 5,
+    "source_group": "video:BV15xJ266Ecv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "171673896d1e9c40a9e39f93ff7b28e3980edd9082fb492220c5761a7418a1d0"
+  },
+  {
+    "sample_id": "05-024",
+    "class_id": 5,
+    "source_group": "video:BV15xJ266Ecv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "6735262873817c46fa58ee736ade53b06601f5ad1b0b9c2138b9782d530eb619"
+  },
+  {
+    "sample_id": "05-025",
+    "class_id": 5,
+    "source_group": "video:BV15xJ266Ecv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "d08fa6ce7fc2e864b560a04bf33956f588db289f38ff99d5dc9939da90d1510c"
+  },
+  {
+    "sample_id": "06-ref",
+    "class_id": 6,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "978bdb0340b6dc491ae8d55ec1f9695b4a5a1df3183bd12b3f03d958b2518fe4"
+  },
+  {
+    "sample_id": "06-001",
+    "class_id": 6,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "6772acd3d44af6b21aeacac31675a311856ebc36a1e2fe3935345612c039a3e9"
+  },
+  {
+    "sample_id": "06-002",
+    "class_id": 6,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7a01dd000000002c003560",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "895be3cf281bb8ae21fd28698568aabeb42b909e5bd3d1583c4b53884eebcad1"
+  },
+  {
+    "sample_id": "06-003",
+    "class_id": 6,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7a01dd000000002c003560",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "d43c03fad204881f6b0d0dbbd5786f83d341c0f17f07ef0f8307bbd9f3e8a836"
+  },
+  {
+    "sample_id": "06-004",
+    "class_id": 6,
+    "source_group": "https://www.xiaohongshu.com/explore/6aaa9fb10000000028036c25",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5d5ef0b055a0ef8a306397bb647a5e36d9853d58b6a66f1f01ea56fb3e6776b8"
+  },
+  {
+    "sample_id": "06-005",
+    "class_id": 6,
+    "source_group": "archive:dot-naiwa-2228",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "21a0ff36531b90fb13a63c5df8cd01de6bb864ee85de796307729c848c163bd5"
+  },
+  {
+    "sample_id": "06-006",
+    "class_id": 6,
+    "source_group": "video:BV14yto62ESb",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "a3e2a34e4d82fb71aa4de1673da01ddba2ea6f017625fd44b838bbac25745a22"
+  },
+  {
+    "sample_id": "06-007",
+    "class_id": 6,
+    "source_group": "video:BV14yto62ESb",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "0f52c09e3676dfd0fb7f35bdbd6c04a7c1c38257f129f2d4deb5f28452866966"
+  },
+  {
+    "sample_id": "06-008",
+    "class_id": 6,
+    "source_group": "video:BV14yto62ESb",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "04e96b73fd73a9b63cb90bd933483ae254683f7dc984e100ce81540bf80a8e06"
+  },
+  {
+    "sample_id": "06-009",
+    "class_id": 6,
+    "source_group": "video:BV14yto62ESb",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "242ceb3b6610be675ab7c449f88662e391a95396814370183ffae1faa687f552"
+  },
+  {
+    "sample_id": "06-010",
+    "class_id": 6,
+    "source_group": "video:BV14yto62ESb",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "058734033739caf37cd95f6e4dffa2610a0b58921b7b98f70e9cf9e6ad4dd83d"
+  },
+  {
+    "sample_id": "06-011",
+    "class_id": 6,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "be410f7257e2d37a8f4ec839837a5fd26856660cecaf3e8ed506e79d7b7b3d13"
+  },
+  {
+    "sample_id": "06-012",
+    "class_id": 6,
+    "source_group": "video:BV15xJ266Ecv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "86af98c4f90e8686dd3aee3db828f3c5e6da3e63bfd7c89a07ebaf6851f1220f"
+  },
+  {
+    "sample_id": "07-ref",
+    "class_id": 7,
+    "source_group": "reference-pose:07",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "d9258c5cab42fe58e5d8491e01cf6eb0062ee885c7fbf16bf85b826bfb812dc5"
+  },
+  {
+    "sample_id": "07-001",
+    "class_id": 7,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/896860819835324405.html",
+    "split": "val",
+    "kind": "gif_frame",
+    "sha256": "ec0ce272bc03ca2a9fb51023a1245abc2c014082aac47ddf7660d4de9936b92f"
+  },
+  {
+    "sample_id": "07-002",
+    "class_id": 7,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/934131794171659568.html",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "1ccdfb8a9298256cb70471eb6ad6300d8432380cada8d3f9a7f0277cd635a280"
+  },
+  {
+    "sample_id": "07-003",
+    "class_id": 7,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/896860819835324405.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "0f77238d29e42487bd0792b943b60c40d57fe57a6ab0f05f7f7e5c5093778afc"
+  },
+  {
+    "sample_id": "07-004",
+    "class_id": 7,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/946088294645500507.html",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "1c90b133dfd5d8b7d2ae44add92f6c0d2fba9dd006af38169db9cddeeaaad41d"
+  },
+  {
+    "sample_id": "07-005",
+    "class_id": 7,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/943560264010173545.html",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "d814031386dea630eda3027c35c7782f6925078b31872c61d95c66cceea47139"
+  },
+  {
+    "sample_id": "07-006",
+    "class_id": 7,
+    "source_group": "series:galgame-chapter-03-naifen",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "700c04fc6e7388be9f6b758d1545f93f00f064319157e3fe77e1c5da87623421"
+  },
+  {
+    "sample_id": "07-007",
+    "class_id": 7,
+    "source_group": "series:galgame-chapter-03-naifen",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "816b4ccfee959b09f9213f5d67bd6c35984c06bca7f1bdbf74400a21db3817dc"
+  },
+  {
+    "sample_id": "07-008",
+    "class_id": 7,
+    "source_group": "series:galgame-chapter-03-naifen",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "4f3d9afc463a0dd82c2af086dfd8c1ee847085784129204117ff8c4acb52589c"
+  },
+  {
+    "sample_id": "07-009",
+    "class_id": 7,
+    "source_group": "video:BV1PWNu6jEyQ",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "5af043fb49323c5499a1ac32556870fe197247a46101d984629f53b35c969fc4"
+  },
+  {
+    "sample_id": "07-010",
+    "class_id": 7,
+    "source_group": "video:BV1PWNu6jEyQ",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "594c8b495467ad6c596cf1e9456910fce5e8f011b194c6218ac980cb2a6561bd"
+  },
+  {
+    "sample_id": "07-011",
+    "class_id": 7,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "c3ed3c601b221b59749df4402b4355a450857b957059eeb640a6f09d592edf31"
+  },
+  {
+    "sample_id": "07-012",
+    "class_id": 7,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "c01b0148df181bf8cc873b614a98700dc4088caf171a40747a56a035f74a8f41"
+  },
+  {
+    "sample_id": "07-013",
+    "class_id": 7,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "5aeee20c09b9421a23b4597d1a70f63500fd10baad6a63ba88c643d7cb683918"
+  },
+  {
+    "sample_id": "08-ref",
+    "class_id": 8,
+    "source_group": "reference-pose:08",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "96344b7ce023c4c2ab39637d5376c720bf219c7a04bb97063ce2e6bb0a9e91bf"
+  },
+  {
+    "sample_id": "08-001",
+    "class_id": 8,
+    "source_group": "reference-pose:08",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "b10e16ba6923809a8f620cebd82a79187e6e1bf0d9c9b1d8a68e4278f93599ee"
+  },
+  {
+    "sample_id": "08-002",
+    "class_id": 8,
+    "source_group": "video:BV1SdtH6HE1q",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "6a363a685885bd4ad30cb91e82d9fb7eaa4794b9c72d8d01c1b5c937a37cd672"
+  },
+  {
+    "sample_id": "08-003",
+    "class_id": 8,
+    "source_group": "video:BV1SdtH6HE1q",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "fecdd081e5b98103e0bb362ab3ae956a45e9f9042dc4b443fe78b6bc555e3607"
+  },
+  {
+    "sample_id": "08-004",
+    "class_id": 8,
+    "source_group": "video:BV1AQHL6gEuQ",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "3c3096cfd73ef5a2e8fed4890d30b6e3a004f029a1f11a37aa2eba0af0972cc6"
+  },
+  {
+    "sample_id": "08-005",
+    "class_id": 8,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "b6bc51cfb5660ac8026427f698b93deba12551ac477d54e11c6fac12aaa1e6c3"
+  },
+  {
+    "sample_id": "08-006",
+    "class_id": 8,
+    "source_group": "video:BV1hmWi6JEYZ",
+    "split": "val",
+    "kind": "video_frame",
+    "sha256": "d04b8d5485d76c55f6ec816d81b660ea25f48c660a74a06944c42a6e3157fed8"
+  },
+  {
+    "sample_id": "09-ref",
+    "class_id": 9,
+    "source_group": "reference-pose:09",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "c42e98202c082087e9517ded3bf056a016090561a0d9ba4a3bbdcd1f27b3b532"
+  },
+  {
+    "sample_id": "09-001",
+    "class_id": 9,
+    "source_group": "reference-pose:09",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "c30bae79b787c63647fa9d1e2459783160d443bf9dfcca19a11de57ece7b6053"
+  },
+  {
+    "sample_id": "09-002",
+    "class_id": 9,
+    "source_group": "video:BV1pSnu6pEkP",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "812ffa366e6cce3561e8e07779dcb819fc983224bb3751a38e07868cc2ed8ccc"
+  },
+  {
+    "sample_id": "09-003",
+    "class_id": 9,
+    "source_group": "video:BV1pSnu6pEkP",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "61bf7cd86d189a3cee3b0b45ba99a2c3be0a873ec760ab5ac9321c83ef850b53"
+  },
+  {
+    "sample_id": "09-004",
+    "class_id": 9,
+    "source_group": "video:BV1pSnu6pEkP",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "fe22d4f2f4f6863ad66e3bc5af404cdb065b9f0c4aa529d951b97dfeacbf2ad0"
+  },
+  {
+    "sample_id": "09-005",
+    "class_id": 9,
+    "source_group": "video:BV1mteM6RES1",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "e16b753a4397932b5224dbf3e720ec383fc8c88ec28016607c4655c2c00e67c1"
+  },
+  {
+    "sample_id": "09-006",
+    "class_id": 9,
+    "source_group": "video:BV1mteM6RES1",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "1f3902d9c87986572a181d2a441adf25370544be2d56bc6d25e90e24a0070fbc"
+  },
+  {
+    "sample_id": "10-ref",
+    "class_id": 10,
+    "source_group": "reference-pose:10",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "b3a50178600ba8adb5ead9f8e5a1d04308d10fad78c891f78e4880c7a91b9c5f"
+  },
+  {
+    "sample_id": "10-001",
+    "class_id": 10,
+    "source_group": "reference-pose:10",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "972435635f344e3b70d50b23d0ed2c4b1304e417f53c1b6a7c90f4701256b43c"
+  },
+  {
+    "sample_id": "10-002",
+    "class_id": 10,
+    "source_group": "video:BV1Vvxc6bEWi",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "93e9eddd8815567d4689f11abd4565dee38ea1437f297b95e67de66e629d5c58"
+  },
+  {
+    "sample_id": "10-003",
+    "class_id": 10,
+    "source_group": "video:BV1Vvxc6bEWi",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "568299566f11aff5b0bf065dc414dbe01bfdc02404b1b435df09ed1e692fb4e3"
+  },
+  {
+    "sample_id": "10-004",
+    "class_id": 10,
+    "source_group": "video:BV1Vvxc6bEWi",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "eebc06efa5059027f157ac6d841827c7f2eb16e494a685555648ec861aca8afb"
+  },
+  {
+    "sample_id": "10-005",
+    "class_id": 10,
+    "source_group": "weibo:5332324451619698",
+    "split": "train",
+    "kind": "web_cover_crop",
+    "sha256": "607c288e8b082cb2b1c70fe21de9aca3abd984777dc39f76c81535e6ddbd59ab"
+  },
+  {
+    "sample_id": "11-ref",
+    "class_id": 11,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "c6d4dcadd613652c1f322dd429dd0e257e77eb7c6c4d9f5aa79a6b7ef8600bc7"
+  },
+  {
+    "sample_id": "11-001",
+    "class_id": 11,
+    "source_group": "reference-pose:11",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "5a56724c3c4f2d0b6ff5127f2d611424bf931a01f8fbfb8983492624dfb33e02"
+  },
+  {
+    "sample_id": "11-002",
+    "class_id": 11,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/876960246839379149.html",
+    "split": "val",
+    "kind": "web_image",
+    "sha256": "90926553ad3a7a2b17509a888734bd8550f52425c6df389347d3213c1726e22f"
+  },
+  {
+    "sample_id": "11-003",
+    "class_id": 11,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7db485000000002403e440",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "7c0b487af7d4e5769a17971d443309e4c2c1af9ccfec8fd3d5dcee21fcc9f8f3"
+  },
+  {
+    "sample_id": "11-004",
+    "class_id": 11,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7db485000000002403e440",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "a486d6d9edd9bf7f2d69daa3b6ab2b2ae7468d27f63dca8a9a65565cb3093e25"
+  },
+  {
+    "sample_id": "11-005",
+    "class_id": 11,
+    "source_group": "https://www.xiaohongshu.com/explore/6a7db485000000002403e440",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "04996bc3432b55de78d0aa38a6760a4b8ac346194d5fe4067214262d6b96d0f9"
+  },
+  {
+    "sample_id": "11-006",
+    "class_id": 11,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae46e80000000001a0237cb",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "fe32d78aa71233cf9ae77c81478abed8f3d000e15ecd581a0e85a8a8400c3d96"
+  },
+  {
+    "sample_id": "11-007",
+    "class_id": 11,
+    "source_group": "reference-pose:03",
+    "split": "train",
+    "kind": "web_image",
+    "sha256": "21c2ad1d89bda3d00cc8cba0004b56ee3cbdfe831522e5bf9898637a16a9f84c"
+  },
+  {
+    "sample_id": "11-008",
+    "class_id": 11,
+    "source_group": "video:BV1t4uh6tENG",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "34f9dc830d37a986398e9006e108328f6f75dcb20c8ec77ab2691d76c80705d1"
+  },
+  {
+    "sample_id": "11-009",
+    "class_id": 11,
+    "source_group": "video:BV1t4uh6tENG",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "91f7aeaf34d6fa91d037acc3514c8c5de8d9630cc71d1ea636ad87be9abe4869"
+  },
+  {
+    "sample_id": "11-010",
+    "class_id": 11,
+    "source_group": "video:BV1t4uh6tENG",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "62542f19f4489a7d4e67f3d68c035dbd775f4daca7a76ab9a4d13d42c73deeca"
+  },
+  {
+    "sample_id": "11-011",
+    "class_id": 11,
+    "source_group": "video:BV1t4uh6tENG",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "2a1e4b404d704a43ebd1b798123fb6b7f14f200122971f6d8e55447187a90314"
+  },
+  {
+    "sample_id": "11-012",
+    "class_id": 11,
+    "source_group": "video:BV1t4uh6tENG",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "2d3a645d060a6713d2ead5c0aad692f38896fdf9cce8dc99f607a9b24c551780"
+  },
+  {
+    "sample_id": "12-ref",
+    "class_id": 12,
+    "source_group": "reference-pose:12",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "337fdc23e5efa47fe664501d7a9a68b03450dae50b6157875c66f7dbd8439d34"
+  },
+  {
+    "sample_id": "12-001",
+    "class_id": 12,
+    "source_group": "archive:dot-naiwa-1138",
+    "split": "test",
+    "kind": "web_image",
+    "sha256": "14b8a536013528e45a7ce106194fc3357efd76636bcddb8c08d82241226a2684"
+  },
+  {
+    "sample_id": "12-002",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "c3c0b35ff6110898844f94fe627a882594ea2facbddda82f4be7e57808d72960"
+  },
+  {
+    "sample_id": "12-003",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "4ec7c06bf9330b5447a593a75e04876ffc7c4effa5241af7a4941fb7fbea0ba8"
+  },
+  {
+    "sample_id": "12-004",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "692270d029b60c008642c190267b712a7a1ab8eab8de97ca659c6f990ce70347"
+  },
+  {
+    "sample_id": "12-005",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "a8c0c895604a75793bfe26309eb204a522fd2fccdd651c4b788dc12d8770b984"
+  },
+  {
+    "sample_id": "12-006",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "25e79e7059d7e50c659ace01735e2f48a8212354dc925402773435c407282705"
+  },
+  {
+    "sample_id": "12-007",
+    "class_id": 12,
+    "source_group": "video:BV1JcKH6CEeH",
+    "split": "train",
+    "kind": "web_cover_crop",
+    "sha256": "bd862ec72794d7c48f0cd3b91738f581eaa4ac3e415db77e78d34d10b985bdf5"
+  },
+  {
+    "sample_id": "13-ref",
+    "class_id": 13,
+    "source_group": "reference-pose:13",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "62fab0a3cefd77b481c022de75da0714996fff747b24a5aa3b86d81c6cc4e632"
+  },
+  {
+    "sample_id": "13-001",
+    "class_id": 13,
+    "source_group": "work:fish-swimming",
+    "split": "test",
+    "kind": "gif_frame",
+    "sha256": "05a10d4b1e09af246cafdb674811360226d05518e1b4ed8478f90255ab4b3642"
+  },
+  {
+    "sample_id": "13-002",
+    "class_id": 13,
+    "source_group": "work:fish-swimming",
+    "split": "test",
+    "kind": "gif_frame",
+    "sha256": "b47ac269655bdf15d00ed321d5c69400ddf26562eb02bb13a15b9651275fdd5d"
+  },
+  {
+    "sample_id": "13-003",
+    "class_id": 13,
+    "source_group": "work:fish-pole",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "f5a6e1a0fc0764bbf006e851b2c03ac4c07100e4c6a7e82450e2d8f640de0a68"
+  },
+  {
+    "sample_id": "13-004",
+    "class_id": 13,
+    "source_group": "work:fish-pole",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "c58ff7131bb5a2d872cb1566ba012189223b1c4f7b465d567160c171d21c066b"
+  },
+  {
+    "sample_id": "13-005",
+    "class_id": 13,
+    "source_group": "work:fish-pole",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "e6fa465923208134faade480e113728ee1389a09ad5bfe8ce2ffa372a94519fd"
+  },
+  {
+    "sample_id": "14-ref",
+    "class_id": 14,
+    "source_group": "reference-pose:14",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "8f8b6797e7e0ecb8d4e8ede7828bfe5f1840a9e21cf8339519682fe9cd0b1f58"
+  },
+  {
+    "sample_id": "14-001",
+    "class_id": 14,
+    "source_group": "video:BV1UYu26zE4f",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "94e89b23b1c781e49a2eaafe452812e91fd1542b1260860aab725d6e58e4b4b5"
+  },
+  {
+    "sample_id": "14-002",
+    "class_id": 14,
+    "source_group": "video:BV1UYu26zE4f",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "e1ac70fd2b67edc8d69bf9041526b5ea4898f5acd9e25439d9cc183fe80f32c4"
+  },
+  {
+    "sample_id": "14-003",
+    "class_id": 14,
+    "source_group": "video:BV1UYu26zE4f",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "35cc37bae517a03ee078bf3a80f7c7f22a373e2e4a0a481d8bdfc9c79c0e097a"
+  },
+  {
+    "sample_id": "14-004",
+    "class_id": 14,
+    "source_group": "work:tea-sugar",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "9e0d4cb4741e0f4f847394c9635c67d7d22a8051bd0aee7f0354da685b7a09ec"
+  },
+  {
+    "sample_id": "14-005",
+    "class_id": 14,
+    "source_group": "work:tea-sugar",
+    "split": "train",
+    "kind": "gif_frame",
+    "sha256": "09772a47dc35325ee59e425407cf95cb5402944a0c7562f54b0b1b37d00fca2c"
+  },
+  {
+    "sample_id": "15-ref",
+    "class_id": 15,
+    "source_group": "reference-pose:15",
+    "split": "train",
+    "kind": "reference",
+    "sha256": "c17837a841a932a3fa400c3f7c493d669efe77601c1e7c9a2b7f6f99f12eb530"
+  },
+  {
+    "sample_id": "15-001",
+    "class_id": 15,
+    "source_group": "video:BV1ncbC6YEHv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "46a766b6ef131504e6e3190bb2ea2ac47b002465a19dcea67c4ecceeaa888edc"
+  },
+  {
+    "sample_id": "15-002",
+    "class_id": 15,
+    "source_group": "video:BV1ncbC6YEHv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "aec11a24cc883926ef27eaf753adb0af0809e731f7b76f9de2bf608a24a286a9"
+  },
+  {
+    "sample_id": "15-003",
+    "class_id": 15,
+    "source_group": "video:BV1ncbC6YEHv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "0aa61068b64b898f1f05929ee8709f3c5788e55b2a240c7542896e2790500db5"
+  },
+  {
+    "sample_id": "15-004",
+    "class_id": 15,
+    "source_group": "video:BV1ncbC6YEHv",
+    "split": "test",
+    "kind": "video_frame",
+    "sha256": "465fad667bf2003f4c434a43884463f1e3f387f61235dd2eaf44f0dbdd060836"
+  },
+  {
+    "sample_id": "15-005",
+    "class_id": 15,
+    "source_group": "video:BV17vYT6MEdQ",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "ad514173f865d20327af16cd7a94c20252bb677eb35f6d13ac68c6df47d3ed86"
+  },
+  {
+    "sample_id": "15-006",
+    "class_id": 15,
+    "source_group": "video:BV17vYT6MEdQ",
+    "split": "train",
+    "kind": "video_frame",
+    "sha256": "abd8304c37a3e89312245b8bc49470cf975e274fb51009f519c079d6739a6bb2"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2217",
+    "class_id": 1,
+    "source_group": "repo:Noboru2UTokyo/naifrog-on-desk",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "91dff526d34455904bada2bed7a9f6368bb58c2b7b06fa72ab8b9db5f97df345"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0702",
+    "class_id": 1,
+    "source_group": "repo:whxoperator/nailongnaiwa",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "1020897df1dceaea9fd2df40d7220999f95f097f342b41a301c554d4bc2db544"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0694",
+    "class_id": 1,
+    "source_group": "repo:whxoperator/nailongnaiwa",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "cfb58f08b31ed5b070b02891fa971e16b771282d2a4bc48ad33eaf599b3ad221"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1500",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-1500",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "68d46e419398eedf5f81d77deb3cdfc157fce16ede9bf4f48140c55288ca7e9c"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0327",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0327",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "74e8980f6c07e8440ced82dc434e5138b3f8b080c9e7685cf1cb66ddbc0107e1"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0685",
+    "class_id": 1,
+    "source_group": "repo:whxoperator/nailongnaiwa",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e9547ad2f30a702785d2dc2091d92757b8df86938986ffc8b6274d9c5535fb2b"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2128",
+    "class_id": 1,
+    "source_group": "repo:jzhu1415/galgame",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "826cc21a65d664409b6ac488e31f6a9a3f0fb38476814872ac3f6fd264c9bfcd"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0965",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/948225414961039661.html",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e7136c849ffda8ddda219cc05a1bd8530f0058caa477cfae5ceac679540ddcbd"
+  },
+  {
+    "sample_id": "supp-ghn-naiwa-wallpaper-8036557a8dbb",
+    "class_id": 1,
+    "source_group": "repo:Nailong-Studio/NaiWa-Wallpaper",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "7fcd73e978d6bf57552f3656c7b5c2d99c819dc06ca88c4aa42eb68e3eecf914"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1251",
+    "class_id": 1,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae2a405000000003101fc6a",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "17ee0914f16c225c115084e891f5ff62204b06e11f3e2d0a6f97878aa572bc55"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1968",
+    "class_id": 15,
+    "source_group": "repo:aaGlaming/NaiWai",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "d2898f399a87f590ff58a3ae74555700399a872c77efe7ddb24761f4cf9f9727"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1180",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/930873786515849882.html",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "a91d539e366cf069f939a7d6ef095d89b3a780ecccddd1c0ba95c81a0881a8b0"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1975",
+    "class_id": 1,
+    "source_group": "repo:aaGlaming/NaiWai",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ec7825732d11e2dacc04b54a2a978600cac517f79c34878a0aba45899288f3e8"
+  },
+  {
+    "sample_id": "supp-community-naiwa-4817138a061a",
+    "class_id": 1,
+    "source_group": "archive:community-naiwa-4817138a061a",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "a0713a14841c4507da0e34b787caf5f401a09fa32c955397932e3e051799c9f3"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2179",
+    "class_id": 1,
+    "source_group": "repo:JJchess/naiwa",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "f4c33b0f24dfedf3eeb46df362579fbc70f57add6692f530df16390167afd21f"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0907",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/932686811459751764.html",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e46b1c3338c7b6e896fcfd477fd0e75c26685d2f4df9a0616c9fd69c2a44b971"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2130",
+    "class_id": 1,
+    "source_group": "repo:jzhu1415/galgame",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "81b395f37b6440e14b1bf5b3a0b6fa4efae081c1e32bedf8be58ebb3e9b26dbc"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2106",
+    "class_id": 1,
+    "source_group": "repo:jzhu1415/galgame",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ca954bb6b4cb70bd47c05c9b0ff9c11a44de45b61f910524eb9ea0fe3a02ef7c"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0745",
+    "class_id": 1,
+    "source_group": "https://www.qiubiaoqing.com/album/user_album/956545201554327701.html",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "43153929a748cf8731bf1e3594d0965fb6cb2e05f2b5ba209513c24f6d2b06ac"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2178",
+    "class_id": 1,
+    "source_group": "repo:JJchess/naiwa",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "2ea506eae50009ddd166183b7a4d690b19f53ba458d9605f1eb36d986977cc8f"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-0320",
+    "class_id": 1,
+    "source_group": "archive:dot-naiwa-0320",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e6a261801c5c197cc922e55428aa4f606ea0ebe46851d5e4317882b314d1fae5"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1847",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad19c57000000000a020f3b",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "f0eabd51a8885a545e8e403fd8a133a3fb30a78d039e265da0b5eb9a05412369"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1831",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab36698000000000200d7a5",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "b0ecc52c3adcdcac8a970d85d49232b0d29db94240e25671a4cfcd062998609c"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1914",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab476e6000000000a022b81",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "5eb45297d08cdb5ee69034fbe5d54811baf84ba13546e1c38e568e65d4a8a1aa"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2060",
+    "class_id": 2,
+    "source_group": "archive:dot-naiwa-2060",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "44af4ff6f4b64b84a7af825d055a81fdcd91655561a596755973331aeb070ce3"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1870",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad43202000000002900975f",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "078f6e96c14bdd2fd21f8321ceb0f6c52b61fa763f1a2460bfc6b21860feae52"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1856",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adad37b000000002a0303e8",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "edee566ce36b5d0005e14565e7c725e1231257bc1aa4eafbbc14596a90b8b068"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1932",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a83c41b0000000025015be3",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "de079ccf06df932472ddb8afc118e89d7263fa05c05223e813145cae795eabca"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2145",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "2ab9d980df3f5ab86cf445ca32797cb5200091732e25ee4df318639c9bdb7721"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2067",
+    "class_id": 2,
+    "source_group": "archive:dot-naiwa-2067",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ae382b096052991e2d8fa4d54c5bf249873195abd89f7265246e82b18f83b4e2"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1866",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad590b80000000031008625",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "d1e6dfda102d295bace008470270a08447b69756e56b57483267952b977bc341"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1854",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad82bf000000000310396dd",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ad14a40325da0e63ba666fdd9e4467ec7a2ee50e1beef0f0233076abcff5c811"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1962",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aaada5d000000002900e35f",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "3f669c0eae24a82c964f9bbe442be1f1de5f46ed7e94df756df7be8eea673255"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1864",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad590b80000000031008625",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "2cf24d58c33f53b92d4ff1843c12a54e4c1a41d3653cc67e9571408c5b63cb25"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2157",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "d5c99cfb9ed59e4c175d838d24af205360e669a4368f19f5be70279663101100"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1964",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad590150000000026031617",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "a21604ac64cd494890edc762e6236381a3f76bf743c5df2c81be43b992a89113"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1849",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad82bf000000000310396dd",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "370305e1095c65cc66e5273df495dd22f8731467440ebac5099da59cdd91e5c5"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1905",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad0445800000000180051d5",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "b78849310c527897966fa727dd58b7da70809cbe948cd53e6d08f477515a1d12"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2160",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "abc38eddc5394c1a54281e3ebf4cf1016ac2c5ba04f539b055957cd23f38d4c5"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1554",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcdce8000000003202113c",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "6b40f0f0c83d94b207201b60d9cf96bfc1b17586f7f6c8b40f578e335b7ea441"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2070",
+    "class_id": 2,
+    "source_group": "repo:Pa1eCr0w/naidan-deadlock-mod",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "71eef88eb6b3341d8e84a0c84f73f0747584aea9a4398d649a7b868581220275"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1897",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae410cf000000001e0142dc",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "1e1eb9150f07200809a8a00d30d4a1ef4bdde99856ea2a43d143d1b092130ea5"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1910",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a2a721b000000001603f721",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "225b120f5b198fa393549a305def74696f02a83a5bd7eee7b53cc349088bf968"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1939",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad4ad0d000000002900a2f2",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "cf83b89f6af1196ee724df23bf9c25a4f65aac0aabf11a29eff53f90f67b08ac"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2153",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "bed325f310bbafcc0c17ccbfcc59800af6ca2919386facf619904e312f734c5e"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2147",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "972990941c071c78c7f586d79a664c0d782167d46ad31d1dc1ecc0453e197984"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1934",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a83c41b0000000025015be3",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "3405ce4988d4031ae9872ff3136e17d43c3eb68b87cb8821f0e3e394067daff0"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1869",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad43202000000002900975f",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e16c3de39d01ea75884ed15f68ca8c37dc1b1b1515a2fad082f15d0def65a79e"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2150",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "99731e777eaa92d77d0efabacfafcdbc3e32acbff670670652a70040bae26142"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1825",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab36698000000000200d7a5",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e55f4c94a78f33043e59b1b09472841d9a1cf4b3f5bf83166021cf761e4810f9"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1855",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adad37b000000002a0303e8",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "043e1ab2dd5a9cfbf19ef0c5f848a543078bbd2c3264b502aef8d00ecda447ef"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2155",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "41e0cca86a10d6f5a63a577cda4585b2ee6490347961fcd1db05b0aa82ddcde2"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1834",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcd9880000000025020495",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "fd69e31306880a69a5954e8acafaf53861276dd698ad141c7e4f447e682673be"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1867",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad43202000000002900975f",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "07b8b025dd0ac35ef93553a97e357a3930fc0f51de6ec5498dd812a905748b0f"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1837",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcd9880000000025020495",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "17af73f38eb862814f857d0545cd4e35b53c2a33ae70f2644e672fca7b4bd61c"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2154",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "b3da173f74a4f8279c0801e8523f74e0cd47fbec066f37c2e05b9dfcd74ad9a5"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1827",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ab36698000000000200d7a5",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "c5837de0bce0ce09967f715b6783959074dbbc081868b3bf2287d7f599ea0be6"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1935",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad4ad0d000000002900a2f2",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "6b88652a2e57930568df26b2a13291993d8cb77a4f4f49786a1bae2526199ca7"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1960",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aaada5d000000002900e35f",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "3f091c405cb6d5e5c85fcb57499ecde765d7dc17f6950216ae7ed17caaf13e5a"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2158",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "a7931fa54604b3ee420f86635c67228baf33ec2a21930455269d5601db2eb92b"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1933",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6a83c41b0000000025015be3",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "d88db53829bd868d7735159c9bd2ca7468713a1c92f5480e30f3ea2f8c053d0a"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1927",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6aa43de9000000002701655d",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e27f5dd4ce20bfc051bc8533752408c95488076aa0a88c08ebc343396d9bb887"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1880",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad2f313000000001500122e",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "f6fa7eb731e2eff2a39d9ffebae6d3cc726ba061d2ace486519332927e2d3a53"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1873",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6acc4982000000000b007136",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ce41c512d43812f1be355a99196433c036e06dd153487e9c2930bd7cf984edfb"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1848",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad19c57000000000a020f3b",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "bde57aab4f43ff1de67874102b9c3ebcc6f5ee521757bccdd963c2c00de10939"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1841",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6adcd9880000000025020495",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "adcd8944f6e092511355e643440ebd3e5b5099d86583cdef5b7b1f6329f6c8f9"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1863",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad590b80000000031008625",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "58fc2d6650016af38967752bb2a5a9ee4956a3cff46b35ca4aa4ad79be35c276"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2146",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "d1da2eaebf29e536a639a7497116cd02af325dee32337e500b121d52c00c315c"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1942",
+    "class_id": 2,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae08c50000000002a032ff1",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "3f7bfddac6738231ab7ad284b75187b5cad5f0aa3fa88f676bbf0b72d5632166"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2141",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "fbccf812e24f024b5ee6ca909946e16ff1f2eac50595f36ac394ec9f1cdf44b9"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2159",
+    "class_id": 2,
+    "source_group": "repo:isabellelyu6-code/naidan-updates",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ea6371e51b21cf06c1d66590c1931d5a972a3f7b0ad121fbcfa673cbf9e88d33"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1493",
+    "class_id": 4,
+    "source_group": "https://www.xiaohongshu.com/explore/6ae5613e000000002501a477",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "0c7a1a713b21ed3db6fbfe39aa0ee84cdb688a1915ec683799f41be15baabf23"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2017",
+    "class_id": 4,
+    "source_group": "repo:JoeyJia02/naishu-pet",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "6e69597b4a14a5b2206f790904003a9de94c73cd4fec1d3c917cd399f2e7b512"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2020",
+    "class_id": 4,
+    "source_group": "repo:JoeyJia02/naishu-pet",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "6878a258578dd09a77a88f2390823f8bbc603c24a8246d9fd99c50a213617c2d"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2018",
+    "class_id": 4,
+    "source_group": "repo:JoeyJia02/naishu-pet",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "6cffa7e840e45aeba056d3034014fc4a340b25845149883c171d7e581d143b9f"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2015",
+    "class_id": 4,
+    "source_group": "repo:JoeyJia02/naishu-pet",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "62c9ee362dc0cead1921afd53b947d69609624ff5d7e6631540be743ddc42f88"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1823",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad050490000000014038cc4",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "e774d062dbe4a41497713ef11c978e7b25f0a2e93a0ecbbd9a5f751d50ced7ee"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-1824",
+    "class_id": 5,
+    "source_group": "https://www.xiaohongshu.com/explore/6ad050490000000014038cc4",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "366a7d80fb5a227038f0a6d898dfda80edbefc43fd2cd8a87e24ee53943fd6f9"
+  },
+  {
+    "sample_id": "supp-dot-naiwa-2137",
+    "class_id": 7,
+    "source_group": "repo:jzhu1415/galgame",
+    "split": "train",
+    "kind": "additional_web",
+    "sha256": "ab1fc9eba2db63e369ec4bcc19004bd1ee191e0a4ca0a0a474d853476d6bd2b7"
+  },
+  {
+    "sample_id": "shot-BV133xT6uE9E-0-12",
+    "class_id": 12,
+    "source_group": "video:BV133xT6uE9E",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "4f9bfd84548cf21d7efb19c2849f9ad04676a56c19c765b686e16682fd22903b"
+  },
+  {
+    "sample_id": "shot-BV13ExC6gEAY-4-07",
+    "class_id": 7,
+    "source_group": "video:BV13ExC6gEAY",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "37bc50b6ba5bc22862baa78fb97ac9adab2659dcd9f405770e0f44b3581e8a00"
+  },
+  {
+    "sample_id": "shot-BV13ExC6gEAY-8-07",
+    "class_id": 7,
+    "source_group": "video:BV13ExC6gEAY",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "f951c12491d7840962be7e10c1fabeac2084d2768ac3c5c16bd3ca274d8a15c8"
+  },
+  {
+    "sample_id": "shot-BV13ExC6gEAY-20-07",
+    "class_id": 7,
+    "source_group": "video:BV13ExC6gEAY",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "afb45c849d22ef161433c590735df6fcf65e7c8c6d9b49ec0fccbbd8eb67850a"
+  },
+  {
+    "sample_id": "shot-BV194ht6jEfw-0-07",
+    "class_id": 7,
+    "source_group": "video:BV194ht6jEfw",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "e79742a7c02f7efc3c0861dc252b7095ded3e410bdfda7f3f09dad50ce488a59"
+  },
+  {
+    "sample_id": "shot-BV194ht6jEfw-1-07",
+    "class_id": 7,
+    "source_group": "video:BV194ht6jEfw",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "a75ff52d74b870b4a9a0e536e4ecf4e3a0807bae22ebf65cfc85ff84fbe6f596"
+  },
+  {
+    "sample_id": "shot-BV1GLxp6QE11-0-07",
+    "class_id": 7,
+    "source_group": "video:BV1GLxp6QE11",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "30c5535f0c48a5dfd03b517663c2d2b1d698fd6da37c00b12e2a1035228730e8"
+  },
+  {
+    "sample_id": "shot-BV1GLxp6QE11-2-07",
+    "class_id": 7,
+    "source_group": "video:BV1GLxp6QE11",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "057f23a638d79fb737f79563819a467cca19d285505c27b7a147f76e65e48fae"
+  },
+  {
+    "sample_id": "shot-BV1K9YA6zEqm-0-02",
+    "class_id": 2,
+    "source_group": "video:BV1K9YA6zEqm",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "4f066469325fc7c982bbf614ba7a4ca69696c79c963c9e76749f786f7f800412"
+  },
+  {
+    "sample_id": "shot-BV1K9YA6zEqm-0-06",
+    "class_id": 6,
+    "source_group": "video:BV1K9YA6zEqm",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "7e35cbc7744266de01813063e44254fc468ba13afc27d0d1ac03262a6cd3593f"
+  },
+  {
+    "sample_id": "shot-BV1K9YA6zEqm-6-06",
+    "class_id": 6,
+    "source_group": "video:BV1K9YA6zEqm",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "8cf99dc3b0c6cd16bc018691d0204eac8a283a12fccc33ae43f6eb0b4268a9ef"
+  },
+  {
+    "sample_id": "shot-BV1KuxY6iEhj-0-11",
+    "class_id": 11,
+    "source_group": "video:BV1KuxY6iEhj",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "66327a351a9e0156549412aa28d47e70e47f89172918505e47a0db6329e131a1"
+  },
+  {
+    "sample_id": "shot-BV1KuxY6iEhj-1-11",
+    "class_id": 11,
+    "source_group": "video:BV1KuxY6iEhj",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "591aaf9a1e9e15c44f8ce6b56c731ba853a9f5e467458f8ad0d20bd4412789f5"
+  },
+  {
+    "sample_id": "shot-BV1Qynm6gEBY-0-04",
+    "class_id": 4,
+    "source_group": "video:BV1Qynm6gEBY",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "90e628c010853455f5b390e43fc2904355aa51922a9cf479349c9b8fde339725"
+  },
+  {
+    "sample_id": "shot-BV1Qynm6gEBY-0-08",
+    "class_id": 8,
+    "source_group": "video:BV1Qynm6gEBY",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "a52a8bbd1f4581b2308c9d10e08b114d3c8900cacf9de0d69e79964dfe3154df"
+  },
+  {
+    "sample_id": "shot-BV1Qynm6gEBY-1-02",
+    "class_id": 2,
+    "source_group": "video:BV1Qynm6gEBY",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "2792079eb4d916e2a311866860ec9b47691b432d54cde8c2583958c5d349f40f"
+  },
+  {
+    "sample_id": "shot-BV1W7hs6dErB-0-11",
+    "class_id": 11,
+    "source_group": "video:BV1W7hs6dErB",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "0b51f8cf41e1308e1ce35878eb7ba21a05512dacd0b039859bc20bc30f099e80"
+  },
+  {
+    "sample_id": "shot-BV1W7hs6dErB-3-11",
+    "class_id": 11,
+    "source_group": "video:BV1W7hs6dErB",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "6a6ac3d4fa4a080475f82e40cdfe68fe4d0c093bee996eed57f4d368fdce4bca"
+  },
+  {
+    "sample_id": "shot-BV1W7hs6dErB-3-15",
+    "class_id": 15,
+    "source_group": "video:BV1W7hs6dErB",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "cb3464a73d9585e876ffbeb46102289bb30e084ec330d35f3dda7068012d3526"
+  },
+  {
+    "sample_id": "shot-BV1XmxT6yEhE-0-08",
+    "class_id": 8,
+    "source_group": "video:BV1XmxT6yEhE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "ac03ea091965cda279439984af8b63f5d9f2170b58ead7066102e577e6db4ca6"
+  },
+  {
+    "sample_id": "shot-BV1XmxT6yEhE-5-08",
+    "class_id": 8,
+    "source_group": "video:BV1XmxT6yEhE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "47b228bf01bd9c3687751c330c05f027d6e920e9a8f8b25dc0c1f08c66866ab2"
+  },
+  {
+    "sample_id": "shot-BV1XmxT6yEhE-7-08",
+    "class_id": 8,
+    "source_group": "video:BV1XmxT6yEhE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "f189408c0af0a7312384f59453cea36b2f09386c8351239dd5b03f384e8ff480"
+  },
+  {
+    "sample_id": "shot-BV1XmxT6yEhE-9-02",
+    "class_id": 2,
+    "source_group": "video:BV1XmxT6yEhE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "29f5a5d11b7526e6044d538c41aa666b17719e707f65bc00f76a536c0b47dbb5"
+  },
+  {
+    "sample_id": "shot-BV1XmxT6yEhE-12-02",
+    "class_id": 2,
+    "source_group": "video:BV1XmxT6yEhE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "4a53a592cdd9958b7e544cf289a2995355fc7662bf56b0ee2c3ef6a38fb4eded"
+  },
+  {
+    "sample_id": "shot-BV1ksWi6NEq7-25-06",
+    "class_id": 6,
+    "source_group": "video:BV1ksWi6NEq7",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "cce58585a70addc148dac3fb8fd8373e729558f135c9fa2b3c321c4ac0afc9d8"
+  },
+  {
+    "sample_id": "shot-BV1ksWi6NEq7-25-10",
+    "class_id": 10,
+    "source_group": "video:BV1ksWi6NEq7",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "0fe340529f536bee23be388db2df8105d2362bd605b0656d953e77cca3fdf5d3"
+  },
+  {
+    "sample_id": "shot-BV1pFsr6DEWf-1-04",
+    "class_id": 4,
+    "source_group": "video:BV1pFsr6DEWf",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "92cb408afc9029a5a27ba554ac29f528bf071eb2fa89de2a132cdef1be3e6b88"
+  },
+  {
+    "sample_id": "shot-BV1pFsr6DEWf-2-04",
+    "class_id": 4,
+    "source_group": "video:BV1pFsr6DEWf",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "233953954fb800b5902902e6297521c462832e4fc4e37d480ca727826bc8afc3"
+  },
+  {
+    "sample_id": "shot-BV1vxHm6jEGJ-4-06",
+    "class_id": 6,
+    "source_group": "video:BV1vxHm6jEGJ",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "0fa4d25f4360b0b4ac672f10fcdf8d06067d0756f32213997d5ceb5c0a73647b"
+  },
+  {
+    "sample_id": "shot-BV1vxHm6jEGJ-10-06",
+    "class_id": 6,
+    "source_group": "video:BV1vxHm6jEGJ",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "a8dd3d466acdc18a86a9a76cd00cb0bb46442d03efea3414092fa2dadcf3ae28"
+  },
+  {
+    "sample_id": "shot-BV1w1N76PEF2-1-07",
+    "class_id": 7,
+    "source_group": "video:BV1w1N76PEF2",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "8e732bcdcfbbc1f1c05b830a97d7d41602b8a974fa183da063616449a08f95ba"
+  },
+  {
+    "sample_id": "shot-BV11tp16cELq-0-01",
+    "class_id": 1,
+    "source_group": "video:BV11tp16cELq",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "b5ec82807dde1f466c6344ca0ed4356fa43c38323f32a4d406208211833be45d"
+  },
+  {
+    "sample_id": "shot-BV11tp16cELq-3-01",
+    "class_id": 1,
+    "source_group": "video:BV11tp16cELq",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "7c74ed35871fbe9dc9c1f6b7e3b1d59a88ea75df2e69987ffab6141272dc9c6a"
+  },
+  {
+    "sample_id": "shot-BV121HK6HEYC-5-02",
+    "class_id": 2,
+    "source_group": "video:BV121HK6HEYC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "9953eaec6fb4087324112206b434a4f9262e138af40089f91e2f1d5767692603"
+  },
+  {
+    "sample_id": "shot-BV12Fnu6dEyQ-0-01",
+    "class_id": 1,
+    "source_group": "video:BV12Fnu6dEyQ",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "e4664f0ee6a911786bcd4bc1b7d32979f4120e24c1aa6f8572acadce2010fb93"
+  },
+  {
+    "sample_id": "shot-BV12Pxg66Eut-0-02",
+    "class_id": 2,
+    "source_group": "video:BV12Pxg66Eut",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "380d7e513e4c4cae319ba6dfedd0f5953180807328c77c5ccb6c009519c30b4f"
+  },
+  {
+    "sample_id": "shot-BV12Pxg66Eut-1-02",
+    "class_id": 2,
+    "source_group": "video:BV12Pxg66Eut",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "a80146121d0a13004938cbbafb719377b90d0765ec62c170f968051b564be3ee"
+  },
+  {
+    "sample_id": "shot-BV12Pxg66Eut-2-02",
+    "class_id": 2,
+    "source_group": "video:BV12Pxg66Eut",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "e0e4bedfc54e91fc62184327b3de42cbe74c4f1c337aa7a0f21a82ce93b05e5e"
+  },
+  {
+    "sample_id": "shot-BV15LhH6hEwE-0-02",
+    "class_id": 2,
+    "source_group": "video:BV15LhH6hEwE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "8d7167552723f220812fa14f252b6a4eaeb7ec10e16be95e1467bb65d4a31dc2"
+  },
+  {
+    "sample_id": "shot-BV15LhH6hEwE-1-02",
+    "class_id": 2,
+    "source_group": "video:BV15LhH6hEwE",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "db40810f49e35231eb8cdbd772ac8b8ed93e7b476d018d8dc5c7a1257a38b181"
+  },
+  {
+    "sample_id": "shot-BV15htV6qE97-0-03",
+    "class_id": 3,
+    "source_group": "video:BV15htV6qE97",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "34fe78554b77d1af19ae47e7b48da0243194f56771754f9dc43c9bcf0ff03807"
+  },
+  {
+    "sample_id": "shot-BV15htV6qE97-2-03",
+    "class_id": 3,
+    "source_group": "video:BV15htV6qE97",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "a029f529fb5264ef1a5a30f20cbe8126ffaad0aa2cd5f88c3ba72065bbcbf739"
+  },
+  {
+    "sample_id": "shot-BV16t4F6MEp3-35-01",
+    "class_id": 1,
+    "source_group": "video:BV16t4F6MEp3",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "6b13befb0c1254ffa192d2a1a95976202d4e5cbe280eaa856ab583b58333f9d4"
+  },
+  {
+    "sample_id": "shot-BV1CBV56SEWw-0-04",
+    "class_id": 4,
+    "source_group": "video:BV1CBV56SEWw",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "472ef0cc347cb169200863a1cc6af88f151ccb56216aaaefcd30e84c195c216e"
+  },
+  {
+    "sample_id": "shot-BV1CBV56SEWw-1-04",
+    "class_id": 4,
+    "source_group": "video:BV1CBV56SEWw",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "cdebdd5cc9e0f7010d8c69e4d7726909df834be3ba694baf7ae9d5e213cb4273"
+  },
+  {
+    "sample_id": "shot-BV1CwJY6UEFs-0-04",
+    "class_id": 4,
+    "source_group": "video:BV1CwJY6UEFs",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "fe6cfb8741af134080fd87ffcae39e6bc48bfd4ebb8cba1473b32260e64e06f5"
+  },
+  {
+    "sample_id": "shot-BV1CwJY6UEFs-3-04",
+    "class_id": 4,
+    "source_group": "video:BV1CwJY6UEFs",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "36790090d59302ae7d5be97eb0054c9cad9ea26299257d61d40f1c69140943ba"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-0-12",
+    "class_id": 12,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "01c9847857e5046db231c9f3ef632f94940a269b56dcbb82853a0d2b728e636a"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-0-02",
+    "class_id": 2,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "373eb37a45caa72eb4653dd7e8004f5fe7b5b2dc4b85c2e9088c64039fea5d43"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-0-05",
+    "class_id": 5,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "b04942ec72215786403cc97d40c63c56099dccda11bab88eacc39bce3bf01d7c"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-0-01",
+    "class_id": 1,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "ca9ba991e0f21b4b11c86a263b943a80f68b3da2f902817b737e58e385c4b699"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-0-04",
+    "class_id": 4,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "32674d6d43de0b0c1e90660bf44353eb6163e427bb5a56082faa86eb1d53595d"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-22-07",
+    "class_id": 7,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "53f8266560cd755592180097ea661028474afb36c0a2e5439811d7e4e09baab6"
+  },
+  {
+    "sample_id": "shot-BV1De4q6ZE8y-29-07",
+    "class_id": 7,
+    "source_group": "video:BV1De4q6ZE8y",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "5bc3b91dd56ea8cc9f78a0e765b1e7089604f6fc9137c869e522868340300fee"
+  },
+  {
+    "sample_id": "shot-BV1Drxv6HEb9-0-02",
+    "class_id": 2,
+    "source_group": "video:BV1Drxv6HEb9",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "4426982544aed49ac087c100aec55fd6237a903ac6e50bb4ea25736abc0247c4"
+  },
+  {
+    "sample_id": "shot-BV1E8JX6wEsb-29-10",
+    "class_id": 10,
+    "source_group": "video:BV1E8JX6wEsb",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "feb26f4c31843b7d404b2ff5015021cb44441334a5b57b7f15368cbea932df99"
+  },
+  {
+    "sample_id": "shot-BV1E8JX6wEsb-43-10",
+    "class_id": 10,
+    "source_group": "video:BV1E8JX6wEsb",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "0c84441f74a773478bcf3ceadb61134880ea71720df1cc3b8be4c180c4ebcee8"
+  },
+  {
+    "sample_id": "shot-BV1E8JX6wEsb-43-14",
+    "class_id": 14,
+    "source_group": "video:BV1E8JX6wEsb",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "f826387b110e55932c7243d74d4ef4c4888e3d8c85774394ca9427db7baa09c6"
+  },
+  {
+    "sample_id": "shot-BV1GQp362Eaj-1-04",
+    "class_id": 4,
+    "source_group": "video:BV1GQp362Eaj",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "731b72ef156178b70c751e186f3a5932d56757364e99645aa6e306b6d9ae8dc0"
+  },
+  {
+    "sample_id": "shot-BV1GQp362Eaj-2-04",
+    "class_id": 4,
+    "source_group": "video:BV1GQp362Eaj",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "74e62b4df1f2606fa944e10971a464b87a4c96241c19d7e8e5731d37d7a9a8f5"
+  },
+  {
+    "sample_id": "shot-BV1GQp362Eaj-3-04",
+    "class_id": 4,
+    "source_group": "video:BV1GQp362Eaj",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "1d1d42b3ba95fc908c80b5b7fa2fe06f70fe2e45356d6deac5d79f41d78212ea"
+  },
+  {
+    "sample_id": "shot-BV1K1xh6PEWV-0-02",
+    "class_id": 2,
+    "source_group": "video:BV1K1xh6PEWV",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "e9f619e7730b2d866712fbc7f75246e2a5f08a10d2ac7c6eaf7b365f3f2fc670"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-0-15",
+    "class_id": 15,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "4b5729b742ee42e3ba08747291b5579c88d765e626f02d45b3f0f537cae18322"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-0-05",
+    "class_id": 5,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "f285b54aea235713bcae597824423bc302a9fc89c49dc0315372d15ba09e38a1"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-0-11",
+    "class_id": 11,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "587e7293e524b5d7489a8e5c359abaf8e866c964acbc7fcf4c33ab4cb743ae41"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-9-15",
+    "class_id": 15,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "fdc73e5eec3a251f71bd8ee07bd30f47fb796305942f5c569b012b27d6541d74"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-18-11",
+    "class_id": 11,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "df3e1f1909d98f2ac1536fd675e40ec169d363410b5d70db8fac5bf55f3d1442"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-26-07",
+    "class_id": 7,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "e87e49ef9495768ff589d0e2bb675667f2b897f5b06bc2ecbea2e4905fff975f"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-35-07",
+    "class_id": 7,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "87c83d274c02a7d4270372dcd6169cc16c439f47214bc976c303974158d0554b"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-44-07",
+    "class_id": 7,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "bb14e5b418ff334661aebd34df34be09bd2e88eada4c5f67224e7785476fc847"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-53-15",
+    "class_id": 15,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "c06b04da16c071ec484cfb95c97326d1b40c93b6e0c3e64cfe0abd4eea8b6f76"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-53-02",
+    "class_id": 2,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "33a3d25be6c32393f65ecb3c821c78e7ec1be607298853d50e534447f72b87eb"
+  },
+  {
+    "sample_id": "shot-BV1Kw4q6DEvC-53-04",
+    "class_id": 4,
+    "source_group": "video:BV1Kw4q6DEvC",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "deb6737d71b91ab29bdbc71b77c60e64c6ec8c0fe3b142b0333c9da645319fb8"
+  },
+  {
+    "sample_id": "shot-BV1MUtf6XEeX-1-04",
+    "class_id": 4,
+    "source_group": "video:BV1MUtf6XEeX",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "7326cb16b82d4fa1b106d981b9b47f83b2d90c8773d406ac503b0a3bd75376a1"
+  },
+  {
+    "sample_id": "shot-BV1NLj36SEcF-1-07",
+    "class_id": 7,
+    "source_group": "video:BV1NLj36SEcF",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "56adc2a6c8fdb7b777c0f69b7139d67de7c4543469ae7fc36293263668a78f44"
+  },
+  {
+    "sample_id": "shot-BV1NLj36SEcF-5-07",
+    "class_id": 7,
+    "source_group": "video:BV1NLj36SEcF",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "b0d38395f3935d5c36f5755d58cc583a8450ee9c2dd9bdb1cc3d6bc5874ce627"
+  },
+  {
+    "sample_id": "shot-BV1NMH767Ezg-3-04",
+    "class_id": 4,
+    "source_group": "video:BV1NMH767Ezg",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "002268ffd3fa73f3a3295cb759762ebd516a5d3b8762c232445cbf6d891d3920"
+  },
+  {
+    "sample_id": "shot-BV1NMH767Ezg-5-04",
+    "class_id": 4,
+    "source_group": "video:BV1NMH767Ezg",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "b12b9bef0a9f3de78048eea8c1a9b9271d128b5d6e20f28bf29304201444b4d6"
+  },
+  {
+    "sample_id": "shot-BV1NMH767Ezg-7-04",
+    "class_id": 4,
+    "source_group": "video:BV1NMH767Ezg",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "14dd66997deaadc1b22875e641aab2adad648cd77eaff55e6d035e80e7451ba3"
+  },
+  {
+    "sample_id": "shot-BV1NMH767Ezg-10-04",
+    "class_id": 4,
+    "source_group": "video:BV1NMH767Ezg",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "aa08b4f91169fb95635b0d0c5542c42f4a64405a35408ae5491221e037d50716"
+  },
+  {
+    "sample_id": "shot-BV1QAxU6REpu-0-04",
+    "class_id": 4,
+    "source_group": "video:BV1QAxU6REpu",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "06823063ca5aa82e1ee7242e9659c330358a34659e8f6c34b92a6e1bfc1593be"
+  },
+  {
+    "sample_id": "shot-BV1QAxU6REpu-1-04",
+    "class_id": 4,
+    "source_group": "video:BV1QAxU6REpu",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "ef5ea3940959292bd696e58d8cbb277f6cf055fb570301862ece8db63d398bcc"
+  },
+  {
+    "sample_id": "shot-BV1SY4A6hEkA-0-06",
+    "class_id": 6,
+    "source_group": "video:BV1SY4A6hEkA",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "7d4d0a7e3476d214470803b284e9265ff47596532b018f97a12446b410f78a55"
+  },
+  {
+    "sample_id": "shot-BV18k4E66Ebu-12-08",
+    "class_id": 8,
+    "source_group": "video:BV18k4E66Ebu",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "f54e039fc059d76db4e590958c2c8e775606f5f6cd02acdfa60bf0abe07507a2"
+  },
+  {
+    "sample_id": "shot-BV1nzhy6VEfe-0-01",
+    "class_id": 1,
+    "source_group": "video:BV1nzhy6VEfe",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "e5afbe6e707140b5c62a0428f7cb4b54e7fca9f18800929550dfe6df7bdf7adc"
+  },
+  {
+    "sample_id": "shot-BV1nzhy6VEfe-2-01",
+    "class_id": 1,
+    "source_group": "video:BV1nzhy6VEfe",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "b103d9be1d914184d2d16ff4bee45aa14b06a41cb1b5a888e3139f784363d402"
+  },
+  {
+    "sample_id": "shot-BV1uZsc6SEK6-2-14",
+    "class_id": 14,
+    "source_group": "video:BV1uZsc6SEK6",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "9b7ad91725cd1463b3efb201818754ec526655471f001bb22cadc5f1035457cc"
+  },
+  {
+    "sample_id": "shot-BV1dMWH6SE2q-8-03",
+    "class_id": 3,
+    "source_group": "video:BV1dMWH6SE2q",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "0d0c6b24a8b2247124e903781c76b82063b1720be7606e416a4e03dd9c756ef4"
+  },
+  {
+    "sample_id": "shot-BV1fMb16vEri-0-03",
+    "class_id": 3,
+    "source_group": "video:BV1fMb16vEri",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "6681ca63aa61a0a7ffa46d4437f0ec514f26be8ed89a30c26c4fd28bf4591f9e"
+  },
+  {
+    "sample_id": "shot-BV1fMb16vEri-2-03",
+    "class_id": 3,
+    "source_group": "video:BV1fMb16vEri",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "66a410aec5877f336efd89f85a7a3613d3e89437d4c8d26b1f3053ae464f70b5"
+  },
+  {
+    "sample_id": "shot-BV1fMb16vEri-3-03",
+    "class_id": 3,
+    "source_group": "video:BV1fMb16vEri",
+    "split": "train",
+    "kind": "verified_video_frame",
+    "sha256": "365f111ab880723082df73a6cd365ac5c316d5b9cb6fb73472d71a1027cf8ed9"
+  },
+  {
+    "sample_id": "shot-BV1FcGP6GEEm-0-09",
+    "class_id": 9,
+    "source_group": "video:BV1FcGP6GEEm",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "c26d2e6d52731cfc5944648993ac3a40d26c1fdce414540fffd60ab11973026e"
+  },
+  {
+    "sample_id": "shot-BV1FcGP6GEEm-1-09",
+    "class_id": 9,
+    "source_group": "video:BV1FcGP6GEEm",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "2987495f3c87ed5e603e9f0ae949cf450a5dfb1f8b22d5695440320ea9ba5c9d"
+  },
+  {
+    "sample_id": "shot-BV1FcGP6GEEm-3-09",
+    "class_id": 9,
+    "source_group": "video:BV1FcGP6GEEm",
+    "split": "val",
+    "kind": "verified_video_frame",
+    "sha256": "2faf1921f401791804c4d8f169a64d3efca4d4ced5386b29211806341cdddbe4"
+  }
+]
